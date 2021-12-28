@@ -25,3 +25,6 @@
 [submodule "darknet"]
 	path = darknet
 	url = https://github.com/Simeon340703/darknet
+[submodule "yolov3"]
+	path = yolov3
+	url = https://github.com/ultralytics/yolov3
