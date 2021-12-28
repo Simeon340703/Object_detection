@@ -40,3 +40,6 @@
 [submodule "FUnIE-GAN"]
 	path = FUnIE-GAN
 	url = https://github.com/xahidbuffon/FUnIE-GAN
+[submodule "1-stage-wseg"]
+	path = 1-stage-wseg
+	url = https://github.com/visinf/1-stage-wseg
