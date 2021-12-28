@@ -28,3 +28,6 @@
 [submodule "yolov3"]
 	path = yolov3
 	url = https://github.com/ultralytics/yolov3
+[submodule "Awesome-Underwater-Image-Enhancement"]
+	path = Awesome-Underwater-Image-Enhancement
+	url = https://github.com/cxtalk/Awesome-Underwater-Image-Enhancement
