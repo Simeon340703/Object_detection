@@ -22,3 +22,6 @@
 [submodule "pytorch-image-models"]
 	path = pytorch-image-models
 	url = https://github.com/Simeon340703/pytorch-image-models
+[submodule "darknet"]
+	path = darknet
+	url = https://github.com/Simeon340703/darknet
