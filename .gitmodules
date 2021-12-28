@@ -34,3 +34,6 @@
 [submodule "Yolo_mark"]
 	path = Yolo_mark
 	url = https://github.com/AlexeyAB/Yolo_mark
+[submodule "nutonomy_pointpillars"]
+	path = nutonomy_pointpillars
+	url = https://github.com/SmallMunich/nutonomy_pointpillars
