@@ -37,3 +37,6 @@
 [submodule "nutonomy_pointpillars"]
 	path = nutonomy_pointpillars
 	url = https://github.com/SmallMunich/nutonomy_pointpillars
+[submodule "FUnIE-GAN"]
+	path = FUnIE-GAN
+	url = https://github.com/xahidbuffon/FUnIE-GAN
