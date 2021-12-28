@@ -31,3 +31,6 @@
 [submodule "Awesome-Underwater-Image-Enhancement"]
 	path = Awesome-Underwater-Image-Enhancement
 	url = https://github.com/cxtalk/Awesome-Underwater-Image-Enhancement
+[submodule "Yolo_mark"]
+	path = Yolo_mark
+	url = https://github.com/AlexeyAB/Yolo_mark
