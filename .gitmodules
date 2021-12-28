@@ -13,3 +13,6 @@
 [submodule "mmdetection"]
 	path = mmdetection
 	url = https://github.com/open-mmlab/mmdetection
+[submodule "py-motmetrics"]
+	path = py-motmetrics
+	url = https://github.com/cheind/py-motmetrics
