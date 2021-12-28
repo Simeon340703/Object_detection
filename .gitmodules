@@ -16,3 +16,6 @@
 [submodule "py-motmetrics"]
 	path = py-motmetrics
 	url = https://github.com/cheind/py-motmetrics
+[submodule "pytorch-CycleGAN-and-pix2pix"]
+	path = pytorch-CycleGAN-and-pix2pix
+	url = https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
