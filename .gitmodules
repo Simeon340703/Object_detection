@@ -1,3 +1,6 @@
 [submodule "RODNet"]
 	path = RODNet
 	url = https://github.com/yizhou-wang/RODNet
+[submodule "contrastive-unpaired-translation"]
+	path = contrastive-unpaired-translation
+	url = https://github.com/taesungp/contrastive-unpaired-translation
