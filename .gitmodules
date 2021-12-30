@@ -46,3 +46,6 @@
 [submodule "a-PyTorch-Tutorial-to-Object-Detection"]
 	path = a-PyTorch-Tutorial-to-Object-Detection
 	url = https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection
+[submodule "CycleGAN"]
+	path = CycleGAN
+	url = https://github.com/junyanz/CycleGAN
