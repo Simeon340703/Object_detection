@@ -43,3 +43,6 @@
 [submodule "1-stage-wseg"]
 	path = 1-stage-wseg
 	url = https://github.com/visinf/1-stage-wseg
+[submodule "a-PyTorch-Tutorial-to-Object-Detection"]
+	path = a-PyTorch-Tutorial-to-Object-Detection
+	url = https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection
